@@ -23,5 +23,5 @@ print("Dave " + " is a funny person")
 print("^^" + ":p" + "    " + "red")
 print("Jerry sprongar" + "99")
 Print("danny")   #This will cause an error as print() is incorrectly typed 
-print("gor"     #This will cause an errer as there is no closing bracket
-print(referer)      #This will cause an errer as there is no variable named referer
+print("gor"     #This will cause an error as there is no closing bracket
+print(referer)      #This will cause an error as there is no variable named referer

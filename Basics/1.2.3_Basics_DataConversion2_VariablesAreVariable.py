@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 30 17:44:21 2019
 
-@author: User
+@author: Yusef Quinlan
 """
 Number = "88"
 print(77.5 - 25 + Number)
